@@ -1,0 +1,2 @@
+C:\Users\aaa48571\Source\Repos\audioCreation\AudioCreation\AudioCreation.csproj;x86
+C:\Users\aaa48571\Source\Repos\audioCreation\CustomEffect\CustomEffect.csproj;x86
